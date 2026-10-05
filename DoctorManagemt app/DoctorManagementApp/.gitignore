@@ -1,0 +1,5 @@
+node_modules
+backend/config.env
+Email: admin123@gmail.com
+Password: admin123
+Role: Admin (automatically set in dashboard)
